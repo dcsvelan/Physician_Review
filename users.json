@@ -1,0 +1,23 @@
+{
+    "dcs1": {
+        "password": "DCS1",
+        "occupation": "Student",
+        "email": "dr.fsdfsfsdf@gmail.com",
+        "phone": "+919442245527",
+        "address": "42 Gokulam Colony, 4th St.,\nCoimbatore, India"
+    },
+    "ram": {
+        "password": "RAM",
+        "occupation": "Teacher",
+        "email": "fsdfdsfsdf@gmail.com",
+        "phone": "+919442245527",
+        "address": "Coimbatore, India"
+    },
+    "ragu": {
+        "password": "RAGU",
+        "occupation": "Teacher",
+        "email": "dcsvelan@gmail.com",
+        "phone": "+919442245527",
+        "address": "42 Gokulam Colony, 4th St.,\nP N Pudur"
+    }
+}
